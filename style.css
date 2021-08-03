@@ -1,0 +1,60 @@
+
+
+.gallery img{
+    
+   width: 100% 
+}
+
+h2{
+    color: currentColor;
+    font-display: swap;
+    font-style: oblique
+    
+}
+h3{
+    color: darkgray;
+    font-style: italic;
+}
+
+h4{
+    color: darkgray;
+    font-style: italic;    
+    
+}
+
+p{
+    color: currentColor;
+    text-decoration-color: currentColor;
+    font-style: oblique;
+    font-feature-settings: normal;
+    text-align: inherit;
+}
+
+
+#menu{
+    
+    background-color: rgb(24, 27, 233);
+    height: 40px;
+    width: 100%;
+    padding-top: 15px;
+    
+}
+
+#menu a{
+    color: rgb(230, 215, 15);
+    background-image: url();
+    text-decoration: none;
+    text-decoration-color: aqua;
+    text-emphasis-style: sesame;
+    font-weight: 800;
+    padding-left: 30px;
+    padding-right: 5px;
+    font-family: helvetica, sans-serif;
+    font-size: 14px;
+}
+
+#menu a:hover{
+    background-image: url(images/eCommerce\ website\ templates\ image.jpg);
+    color: rgb(167, 16, 99);
+    font-style: oblique;
+}
